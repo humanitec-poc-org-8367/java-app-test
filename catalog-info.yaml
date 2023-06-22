@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: java-app-test
+  annotations:
+    github.com/project-slug: humanitec-poc-org-8367/java-app-test
+spec:
+  type: other
+  lifecycle: unknown
+  owner: akshitapareek24
